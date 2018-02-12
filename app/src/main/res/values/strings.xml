@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="msg">Please enter an amount and a percentage of the tip: </string>
+    <string name="commit">Commit</string>
+    <string name="amount">€/$</string>
+    <string name="percent">%</string>
+    <string name="reset">Reset</string>
+</resources>
